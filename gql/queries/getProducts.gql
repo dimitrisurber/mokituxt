@@ -40,8 +40,6 @@ query getProducts(
           count
         }
       }
-      ...SimpleProduct
-      ...VariableProduct
     }
   }
 }
